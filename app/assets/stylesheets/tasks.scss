@@ -1,0 +1,24 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+ul {
+  list-style: none;
+}
+
+.task_list {
+  text-align: center;
+  font-size: 30px;
+}
+
+.task_head {
+  text-align: center;
+}
+
+li {
+  margin-top: 15px;
+}
+
+.link a{
+  border-radius: 2px;
+  background-color: light-grey;
+}
